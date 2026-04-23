@@ -11,7 +11,7 @@ const gifStages = [
 
 const noMessages = [
     "No, you have already eaten a lot sweet treats.",
-    "Are you positive? 🤔",
+    "Are you sure? 🤔",
     "Please... 🥺",
     "If you say no, I will be really sad...",
     "I will be very sad... 😢",
